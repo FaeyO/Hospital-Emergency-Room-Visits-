@@ -1,6 +1,6 @@
 # Hospital Emergency Room Visits
 
-### Dashboard Link : https://public.tableau.com/views/HospitalEmergencyroomvisitDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+### Dashboard Link : https://public.tableau.com/app/profile/favour.oyibo/viz/HospitalEmergencyroomvisitDashboard/ERDashboard
 
 ## Problem Statement
 
